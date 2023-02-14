@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Eduardo Medeiros 👋
 
-<!--
-**eduardo-m2001/eduardo-m2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/).
 
-Here are some ideas to get you started:
+#### Current stack
+- ⚡️ Main language: `Javascript`
+- 🎉 Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`, `Typescript`
+- 📡 Backend: `Nodejs`
+- 🎨 Layout Design: `Figma`
+- 📦️ Version code control: `Git & Github`
+- 🔨 Tools: `VsCode`, `Markdown`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact
+- 📧 Email: eduardo_medeiros2001@hotmail.com
+- 👤 Linkedin: https://www.linkedin.com/in/eduardo-m2001/
