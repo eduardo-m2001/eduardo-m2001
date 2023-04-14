@@ -1,8 +1,5 @@
 ### Hi there, I'm Eduardo Medeiros 👋
 
-#### About
-I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/).
-
 #### Current stack
 - ⚡️ Main language: `Javascript`
 - 🎉 Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`, `Typescript`
