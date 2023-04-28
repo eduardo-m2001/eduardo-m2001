@@ -1,17 +1,41 @@
-### Olá! Eu sou o Eduardo Medeiros 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000505&height=120&section=header"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-m2001&show_icons=true&theme=radical) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=86FEF0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Eduardo+Medeiros;I'm+22+years+old;I'm+from+Brazil;I+Graduated+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-m2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+</br>
+</br>
 
-#### Current stack
-- ⚡️ Main language: `Javascript`
-- 🎉 Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`, `Typescript`
-- 📡 Backend: `Nodejs`
-- 🎨 Layout Design: `Figma`
-- 📦️ Version code control: `Git & Github`
-- 🔨 Tools: `VsCode`, `Markdown`
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eduardo-m2001&bg_color=000505&color=86fef0&line=86fef0&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-#### Contact
-- 📧 Email: eduardo_medeiros2001@hotmail.com
-- 👤 Linkedin: https://www.linkedin.com/in/eduardo-m2001/
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eduardo-m2001&show_icons=true&count_private=true&hide_border=true&title_color=86FEF0&icon_color=86FEF0&text_color=c9d1d9&bg_color=000505" alt="Eduardo Medeiros github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-m2001&layout=compact&hide_border=true&title_color=86FEF0&text_color=86FEF0&bg_color=000505" />
+</div>
+
+</br>
+</br>
+
+
+<div align="center"> 
+<a href="https://www.instagram.com/eduardo_m123/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/eduardo-m2001/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
+ ### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
+### Studying in this moment:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000505&height=120&section=footer"/>
