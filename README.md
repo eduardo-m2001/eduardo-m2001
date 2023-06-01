@@ -5,7 +5,6 @@
 </br>
 </br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eduardo-m2001&bg_color=000505&color=86fef0&line=86fef0&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
